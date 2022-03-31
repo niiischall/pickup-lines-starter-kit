@@ -1,4 +1,4 @@
-# Pick Up Lines: Starter Kit - The Starter Kit for the decentralized app for making the first move.
+# Pick Up Lines: Starter Kit - The Starter Kit for [pickuplines.art](https://www.pickuplines.art).
 
 ### Get to know about the app, on its offical [website](https://www.pickuplines.art).
 
