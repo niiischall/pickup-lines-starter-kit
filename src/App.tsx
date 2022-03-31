@@ -17,7 +17,7 @@ export default function App() {
         <div className="bio">
         <span>Welcome to Pick-Up Lines!</span>
         <button className="button" onClick={handlePickupLine}>
-          Wave at Me
+          Shoot Line
         </button>
       </div>
     </div>
